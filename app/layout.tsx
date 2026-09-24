@@ -4,7 +4,13 @@ import MenuButton from "./menu-button";
 
 export const metadata = {
   title: "Punch | Vehicle Experience",
+  verification: {
+    google: "NYkJGtiYLw4LjmjrN2s_nL6AOeuh9nlbRK72WZ1pDz0",
+  },
 };
+    
+  
+
 
 export default function RootLayout({
   children,
